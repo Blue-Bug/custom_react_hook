@@ -1,0 +1,25 @@
+{
+  "name": "@custom_react_hook/use-scroll",
+  "version": "1.0.0",
+  "description": "React Hook to get X/Y coordinates of current position of the scroll.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blue-Bug/custom_react_hook.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "scroll"
+  ],
+  "author": "JEONG JUN KIM <BlueBug9965@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blue-Bug/custom_react_hook/issues"
+  },
+  "homepage": "https://github.com/Blue-Bug/custom_react_hook#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
