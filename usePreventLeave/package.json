@@ -1,0 +1,27 @@
+{
+  "name": "@custom_react_hook/use-prevent-leave",
+  "version": "1.0.0",
+  "description": "React Hook to prompt the user for confirmation before leaving the page. Useful when changes haven't been saved.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blue-Bug/custom_react_hook.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "beforeunload",
+    "onleave",
+    "save"
+  ],
+  "author": "JEONG JUN KIM <BlueBug9965@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blue-Bug/custom_react_hook/issues"
+  },
+  "homepage": "https://github.com/Blue-Bug/custom_react_hook#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
